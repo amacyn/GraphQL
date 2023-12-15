@@ -29,6 +29,7 @@ const BanksPage = () => {
           ))}
         </tbody>
       </table>
+      <button className="btn" ><a href="http://localhost:3000/Location">Location</a></button> 
     </div>
   );
 };

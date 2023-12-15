@@ -31,6 +31,7 @@ const LocationsPage = () => {
           ))}
         </tbody>
       </table>
+       <button className="btn" ><a href="http://localhost:3000/Service">Service</a></button> 
     </div>
   );
 };
